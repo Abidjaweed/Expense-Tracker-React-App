@@ -53,7 +53,7 @@ h1 {
 h3 {
   border-bottom: 1px solid rgb(2, 2, 46);
   padding-bottom: 10px;
-  margin: 40px 0 10px;
+  margin: 20px 0 10px;
   color: rgb(2, 2, 46);
 }
 
@@ -67,7 +67,7 @@ h4 {
 .inc-exp-container {
   background-color: #fff;
   box-shadow: var(--box-shadow);
-  padding: 5px;
+  padding: 10px;
   display: flex;
   justify-content: space-between;
   margin: 20px 0;
@@ -117,7 +117,7 @@ input[type='number'] {
   cursor: pointer;
   background-color: rgb(2, 2, 46);
   box-shadow: var(--box-shadow);
-  color: rgb(229, 233, 14);
+  color: rgb(248, 248, 244);
   border: 0;
   display: block;
   font-size: 18px;
@@ -185,12 +185,13 @@ input[type='number'] {
   display: block;
    left: 0;
    bottom: 0;
-   font-size: 14px;
+   font-size: 16px;
    letter-spacing: 1.5px;
    width: 100%;
    background-color: rgb(2, 2, 46);
-   color: rgb(229, 233, 14);
+   color: rgb(247, 247, 4);
    text-align: center;
+   padding: 4px;
   }
 
   
