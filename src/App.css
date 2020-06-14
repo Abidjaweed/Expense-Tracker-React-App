@@ -32,7 +32,7 @@ body {
   min-height: 100vh;
   margin: 0;
   font-family: 'Lato', sans-serif;
-  background-image: linear-gradient(rgb(148, 147, 147), rgb(190, 190, 190))
+background-color: rgb(187, 187, 186);
 }
 
 .container {
@@ -185,7 +185,7 @@ input[type='number'] {
   display: block;
    left: 0;
    bottom: 0;
-   font-size: 16px;
+   font-size: 13px;
    letter-spacing: 1.5px;
    width: 100%;
    background-color: rgb(2, 2, 46);
